@@ -38,11 +38,11 @@ export default function HomeScreen() {
             Welcome to&nbsp;Expo
           </ThemedText>
         </ThemedView>
-
+componet image
         <ThemedText type="code" style={styles.code}>
           get started
         </ThemedText>
-
+components style
         <ThemedView type="backgroundElement" style={styles.stepContainer}>
           <HintRow
             title="Try editing"
