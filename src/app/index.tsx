@@ -54,7 +54,7 @@ components style
             hint={<ThemedText type="code">npm run reset-project</ThemedText>}
           />
         </ThemedView>
-
+componet wave
         {Platform.OS === 'web' && <WebBadge />}
       </SafeAreaView>
     </ThemedView>
